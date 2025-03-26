@@ -1,1 +1,1 @@
-# web_dev_tutorial
+# this is a Basic Git and Github tutorial
